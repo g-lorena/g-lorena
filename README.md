@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on portfolio
 - 🌱 I’m currently learning AI, ML and Blockchain
 - 👯 I’m looking to collaborate with other content creators.
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything. I'll be happy to help.
 - 📫 How to reach me: @g-lorena
