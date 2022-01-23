@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working on building my online presence. 
 - 🌱 I’m currently learning AI, ML and Blockchain
-- 👯 I’m looking to collaborate with other content creators.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m looking to collaborate with other content engineer.
+- 🥅 2022 Goals: Contribute to Open Source projects
 - 💬 Ask me about anything. I'll be happy to help.
 - 📫 How to reach me: @g-lorena
 - 😄 Pronouns: She/Her
